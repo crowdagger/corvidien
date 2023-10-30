@@ -1,6 +1,6 @@
 # Corvidien
 
-Le Corvidien est la langue officielle de la [commune de
+Le Corvidien est la langue oficielle de la [commune de
 Corvidie](https://corneill.es) et celle utilisée à partir de novembre
 2023 dans les romans de Lizzie Crowdagger. 
 
@@ -9,19 +9,19 @@ Corvidie](https://corneill.es) et celle utilisée à partir de novembre
 
 
 Le corvidien est un fork de la langue
-française, intégrant essentiellement les propositions de linguistes :
+française, intégrant essentiellement [des propositions de linguistes](https://www.tract-linguistes.org/) :
 
 * intègre la [réforme ortografique de
   1990](https://fr.wikipedia.org/wiki/Rectifications_orthographiques_du_fran%C3%A7ais_en_1990);
 * suppression de tous les ph, y placés à des endroits bizarres et
   autre h muets : labirinte peut s'écrire comme ceci.
-* les consonnes doubles muettes sont facultatives, aterrissage peut
-  donc s'écrire ainsi (ou « atérissage »)
 * [réforme du participe
   passé](http://www.reformeduparticipepasse.com/) : pas d'accord avec
   *avoir*, toujours accord avec *être*, ET C'EST MARRE!
 * élimination des pluriels en x : des pous, des chous, des hibous, des
-  caillous. 
+	caillous. 
+* les consones doubles muettes sont facultatives, aterrissage peut
+  donc s'écrire ainsi (ou « atérissage ») 
   
 ## Mode inclusif inclus ! 
 
